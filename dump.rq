@@ -1,0 +1,6 @@
+#+ summary: sdfg
+#+ endpoint: https://raw.githubusercontent.com/albertmeronyo/lodapi/master/ghostbusters.ttl
+#+ mime: text/turtle
+
+PREFIX mid:<http://example.org/midi/>
+SELECT ?track WHERE { ?track a mid:Track . }
