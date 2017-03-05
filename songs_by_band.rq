@@ -1,5 +1,5 @@
 #+ summary: Parameters
-#+ endpoint: http://dbpedia.org/spaqrl
+#+ endpoint: http://dbpedia.org/sparql
 #+ method: GET
 #+ pagination: 100
 
